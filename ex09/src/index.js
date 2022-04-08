@@ -33,4 +33,5 @@ console.log(myMutation(arr8));
 console.log(myMutation(arr9));
 console.log(myMutation(arr10));
 console.log(myMutation(arr11));
+module.exports = myMutation;
 console.log(myMutation(arr12));
